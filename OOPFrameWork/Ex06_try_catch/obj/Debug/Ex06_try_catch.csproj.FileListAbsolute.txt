@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\bin\Debug\Ex06_try_catch.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\bin\Debug\Ex06_try_catch.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\bin\Debug\Ex06_try_catch.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\obj\Debug\Ex06_try_catch.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\obj\Debug\Ex06_try_catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\obj\Debug\Ex06_try_catch.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\obj\Debug\Ex06_try_catch.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex06_try_catch\obj\Debug\Ex06_try_catch.pdb

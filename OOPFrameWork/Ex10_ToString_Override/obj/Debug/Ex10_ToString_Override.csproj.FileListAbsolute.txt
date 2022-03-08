@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\bin\Debug\Ex10_ToString_Override.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\bin\Debug\Ex10_ToString_Override.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\bin\Debug\Ex10_ToString_Override.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex10_ToString_Override\obj\Debug\Ex10_ToString_Override.pdb

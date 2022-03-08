@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\bin\Debug\Ex09_Property_Object_Create.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\bin\Debug\Ex09_Property_Object_Create.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\bin\Debug\Ex09_Property_Object_Create.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\obj\Debug\Ex09_Property_Object_Create.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\obj\Debug\Ex09_Property_Object_Create.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\obj\Debug\Ex09_Property_Object_Create.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\obj\Debug\Ex09_Property_Object_Create.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex09_Property_Object_Create\obj\Debug\Ex09_Property_Object_Create.pdb

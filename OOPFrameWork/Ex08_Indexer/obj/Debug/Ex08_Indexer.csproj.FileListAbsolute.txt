@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\bin\Debug\Ex08_Indexer.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\bin\Debug\Ex08_Indexer.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\bin\Debug\Ex08_Indexer.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\obj\Debug\Ex08_Indexer.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\obj\Debug\Ex08_Indexer.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\obj\Debug\Ex08_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\obj\Debug\Ex08_Indexer.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex08_Indexer\obj\Debug\Ex08_Indexer.pdb
