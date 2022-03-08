@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\bin\Debug\Ex04_this.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\bin\Debug\Ex04_this.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\bin\Debug\Ex04_this.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\obj\Debug\Ex04_this.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\obj\Debug\Ex04_this.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\obj\Debug\Ex04_this.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\obj\Debug\Ex04_this.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex04_this\obj\Debug\Ex04_this.pdb

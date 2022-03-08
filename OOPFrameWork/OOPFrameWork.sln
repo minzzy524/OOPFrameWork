@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPFrameWork", "OOPFrameWork\OOPFrameWork.csproj", "{B36A2D72-AAD6-4E99-916F-5397CC0E43BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04_this", "Ex04_this\Ex04_this.csproj", "{64F77F24-EB43-46A4-95C4-1E4F77F5DAB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B36A2D72-AAD6-4E99-916F-5397CC0E43BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B36A2D72-AAD6-4E99-916F-5397CC0E43BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B36A2D72-AAD6-4E99-916F-5397CC0E43BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B36A2D72-AAD6-4E99-916F-5397CC0E43BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F77F24-EB43-46A4-95C4-1E4F77F5DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F77F24-EB43-46A4-95C4-1E4F77F5DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F77F24-EB43-46A4-95C4-1E4F77F5DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F77F24-EB43-46A4-95C4-1E4F77F5DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
