@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\bin\Debug\Homework.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\bin\Debug\Homework.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\bin\Debug\Homework.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\obj\Debug\Homework.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Homework\obj\Debug\Homework.pdb

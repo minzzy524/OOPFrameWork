@@ -31,17 +31,28 @@ namespace Ex06_try_catch
                 Console.WriteLine(str.ToString()); // 문제가 발생
 
                 // 내부적으로 예외를 담을 수 있는 객체가 자동 생성되고, 그 객체에 문제를 담고 그 주소를 Exception e 에 전달한다
-                // 
+
+                // 1. 계층 구조 : https://docs.microsoft.com/ko-kr/dotnet/api/system.nullreferenceexception?view=net-6.0
+                // public class NullReferenceException : SystemException
+                // 상속  Object -> Exception -> SystemException -> NullReferenceException
+
+                // 2. 부모 타입의 변수는 자식 타입의 주소를 받을 수 있다. (다형성)
+                // 3. Exception e = new NullReferenceException("문자 발생해도 코드... 문자열")
+                // try 문제가 생기면 ... 자동으로 그 문제에 대한 객체를 달생 ... new NullReferenceException("문자 발생해도 코드... 문자열")
+                // 4. 그런데 catch ( Exception e) 코드를 생성 ... catch(NullReferenceException e)로 하지 않았을까
+                // 5. 결국 무슨 예외가 발생할지 모른다. 모든 예외의 부모를 가지고 다 받아서 처리
+
+                // 상위 예외가 뒤에
 
 
             }
-            catch (NullReferenceException e){ // 가독성을 높이기 위해 하위 예외 먼저 해놓자. 상위 예외가 뒤에
+            catch (NullReferenceException e)
+            { // 가독성을 높이기 위해 하위 예외 먼저 해놓자. 상위 예외가 뒤에
 
                 Console.WriteLine(e.Message);
                 // 1. log 파일에 정보 기록 >> 수정
                 // 2. 메일 시스템 연동 -> 문제를 담당자에게 메일 >> 수정
             }
-            
 
             catch (Exception n) // 문제 생기면 나는 catch 블록으로 가겠다.
             {
