@@ -1,0 +1,8 @@
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\bin\Debug\Ex15_abstract_Interface.exe.config
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\bin\Debug\Ex15_abstract_Interface.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\bin\Debug\Ex15_abstract_Interface.pdb
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\obj\Debug\Ex15_abstract_Interface.csproj.AssemblyReference.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\obj\Debug\Ex15_abstract_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\obj\Debug\Ex15_abstract_Interface.csproj.CoreCompileInputs.cache
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\obj\Debug\Ex15_abstract_Interface.exe
+C:\Users\MAC\source\repos\minzzy524\OOPFrameWork\OOPFrameWork\Ex15_abstract_Interface\obj\Debug\Ex15_abstract_Interface.pdb
